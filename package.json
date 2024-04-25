@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hiepnk-relipa/test-publish/issues"
   },
+  "publishConfig": {
+    "@hiepnk-relipa:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/hiepnk-relipa/test-publish#readme"
 }
